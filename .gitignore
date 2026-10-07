@@ -45,8 +45,7 @@ target/
 .vscode/
 .settings/
 .project
-.classpath
-*.launch
+.classpathK
 
 # ===== 系统与日志 =====
 .DS_Store
